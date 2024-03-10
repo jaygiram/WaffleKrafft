@@ -104,8 +104,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-1.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Cold coffee</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -116,8 +116,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-2.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Classic burger</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -128,8 +128,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-3.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Noodels</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -140,8 +140,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-4.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Fried momos </h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -152,8 +152,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-5.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Fries</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -164,8 +164,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-1.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">icy choclate</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -176,8 +176,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-2.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Burger</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4 pb-2">
@@ -188,8 +188,8 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-3.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Vanilla Ice Cream</h5>
-                        <a href="" class="btn btn-sm btn-secondary">Try Now</a>
+                        <h5 class="font-weight-bold mb-4">Spicey noodels</h5>
+                        <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="btn btn-sm btn-secondary">Try Now</a>
                     </div>
                 </div>
                 <div class="col-12 text-center">
@@ -231,7 +231,7 @@
                     </div>
                 </div>
                 <div class="col-12">
-                    <p class="m-0">&copy; <a href="#">Domain</a>. All Rights Reserved. Designed by <a href="https://htmlcodex.com">HTML Codex</a>
+                    <p class="m-0">&copy; <a href="#">Domain</a>. All Rights Reserved. Designed by <a href="https://jay-portfolios.webflow.io">Jay Giram</a>
                     </p>
                 </div>
             </div>

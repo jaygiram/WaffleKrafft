@@ -245,7 +245,7 @@
                             </div>
                             <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
                                 <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Quality Maintain</h5>
-                                <p>Dolor nonumy sed eos sed lorem diam amet eos magna. Dolor kasd lorem duo stet kasd justo</p>
+                                <p>We use best product & try to make most of the required products to make in own kitchen. </p>
                                 <a href="" class="border-bottom border-secondary text-decoration-none text-secondary">Learn More</a>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                             </div>
                             <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
                                 <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Individual Approach</h5>
-                                <p>Dolor nonumy sed eos sed lorem diam amet eos magna. Dolor kasd lorem duo stet kasd justo</p>
+                                <p>We also love to serve customised product as per you need.</p>
                                 <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="border-bottom border-secondary text-decoration-none text-secondary">Learn More</a>
                             </div>
                         </div>
@@ -264,8 +264,8 @@
                                 <img class="rounded-circle w-100 h-100 bg-light p-3" src="img/service-3.jpg" style="object-fit: cover;">
                             </div>
                             <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
-                                <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Celebration Ice Cream</h5>
-                                <p>Dolor nonumy sed eos sed lorem diam amet eos magna. Dolor kasd lorem duo stet kasd justo</p>
+                                <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Celebration booking</h5>
+                                <p>we also home deliver our food for events,bulk order also taken</p>
                                 <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="border-bottom border-secondary text-decoration-none text-secondary">Learn More</a>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                             </div>
                             <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
                                 <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Delivery To Any Point</h5>
-                                <p>Dolor nonumy sed eos sed lorem diam amet eos magna. Dolor kasd lorem duo stet kasd justo</p>
+                                <p>our collabration partners are loved to deliver food anywhere in pune</p>
                                 <a href="https://www.instagram.com/wafflekraaft?igsh=d2E2M2UzcDg4bDlr" class="border-bottom border-secondary text-decoration-none text-secondary">Learn More</a>
                             </div>
                         </div>
