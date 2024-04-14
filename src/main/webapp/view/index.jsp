@@ -109,7 +109,6 @@ button{
     border-radius: 5px;
     cursor: pointer;
     
-       
 }
 .social{
   margin-top: 30px;

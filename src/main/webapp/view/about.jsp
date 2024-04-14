@@ -47,7 +47,9 @@
         <div class="container-lg position-relative p-0 px-lg-3" style="z-index: 9;">
             <nav class="navbar navbar-expand-lg bg-white navbar-light shadow p-lg-0">
                 <a href="index.html" class="navbar-brand d-block d-lg-none">
-                    <h1 class="m-0 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
+                
+                    
+               
                 </a>
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
@@ -58,9 +60,13 @@
                         <a href="productpage" class="nav-item nav-link">Product </a>
                     <a href="servicepage" class="nav-item nav-link">Service</a>
                     </div>
-                    <a href="index.html" class="navbar-brand mx-5 d-none d-lg-block">
-                        <h1 class="m-0 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
-                    </a>
+                    
+                    <div class="nev_logo">   
+                      <a href="aboutpage" >
+                       <img src="img/logo_pink.jpg" width="150" height="80" >
+                      </a>
+                    </div>
+                    
                     <div class="navbar-nav mr-auto py-0">
                       <a href="aboutpage" class="nav-item nav-link">about</a>
                         <a href="contactpage" class="nav-item nav-link">Contact</a>
@@ -202,9 +208,13 @@
         <div class="container text-center py-5">
             <div class="row">
                 <div class="col-12 mb-4">
-                    <a href="index.html" class="navbar-brand m-0">
-                        <h1 class="m-0 mt-n2 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
-                    </a>
+                   <div class="nev_logo">   
+                      <a href="aboutpage" >
+                       <img src="img/logo_pink.jpg" width="150" height="80" >
+                      
+                      </a>
+                    </div>
+                  
                 </div>
                 <div class="col-12 mb-4">
                     <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>

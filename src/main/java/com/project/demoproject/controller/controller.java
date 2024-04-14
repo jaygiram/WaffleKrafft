@@ -23,7 +23,7 @@ public class controller {
 	
 	@RequestMapping("/")
 	public String login() {
-		return "login";
+		return "index";
 	}
 	
 	@RequestMapping("uservalidlogin")
@@ -39,7 +39,7 @@ public class controller {
 	        Query<Login> query = session.createQuery(criteriaQuery);
 	        Login dbLogin = query.uniqueResult();
 
-	        String page = "login";
+	        String page = "index";
 
 	        if (dbLogin != null && dbLogin.getPassword().equals(login.getPassword())) {
 	            page = "home";
@@ -59,7 +59,7 @@ public class controller {
 	Session s=sf.openSession();
 	Login dlogin=s.get(Login.class,login.getPassword());
 	
-	String page="login";
+	String page="index";
 	
 	if(dlogin!=null)
 	{if (dlogin.equals(dlogin)) 
@@ -71,7 +71,7 @@ public class controller {
 
 	@RequestMapping("loginpage")
 	public String loginpage() {
-		return "login";
+		return "index";
 	}
 	
 	
